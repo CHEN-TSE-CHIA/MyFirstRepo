@@ -18,3 +18,4 @@ https://github.com/CHEN-TSE-CHIA/MyFirstRepo/assets/165393659/11b8b5ba-b815-45a4
 
 
 <iframe width="600" height="480"  src="https://www.youtube.com/embed/7PJE-K01MTg?start=200" frameborder="0" allowfullscreen></iframe>
+<iframe width="698" height="394" src="https://www.youtube.com/embed/cxkJLeGfxyM" title="Octoverse 2023: The year AI went mainstream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
